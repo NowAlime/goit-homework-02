@@ -1,0 +1,59 @@
+
+body { font-family:  "Roboto", "Raleway", sans-serif;
+       background: #FFF;
+}
+
+
+
+
+
+
+.top-line {
+    width: 1440px;
+    height: 72px;
+    flex-shrink: 0;
+    border-bottom: 1px solid #E7E9FC;
+    background:#FFF;
+
+}
+
+
+
+.navigation-line {
+    color:#2E2F42;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+}
+
+
+.ad-style {
+
+    color: #434455;
+
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+}
+
+.first-head-style {
+    color:#FFF);
+    text-align: center;
+    font-family: Roboto;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 1.12px;
+
+}
+
+
+
+

@@ -1,59 +1,98 @@
-
-body { font-family:  "Roboto", "Raleway", sans-serif;
-       background: #FFF;
+body {
+    background: #FFF;
 }
 
+a {text-decoration: none;}
 
 
-
-
-
-.top-line {
-    width: 1440px;
-    height: 72px;
-    flex-shrink: 0;
-    border-bottom: 1px solid #E7E9FC;
-    background:#FFF;
-
-}
-
-
-
-.navigation-line {
+.header-nav {
     color:#2E2F42;
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
     font-size: 16px;
-    font-style: normal;
     font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.32px;
+    line-height:1.5;
+    letter-spacing: 0.32em;
 }
 
-
-.ad-style {
-
-    color: #434455;
-
-    font-family: Roboto;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 24px;
-    letter-spacing: 0.32px;
-}
-
-.first-head-style {
-    color:#FFF);
-    text-align: center;
-    font-family: Roboto;
-    font-size: 56px;
-    font-style: normal;
+.logo-part-one {
+    color: #4D5AE5;
+    font-family: Raleway, sans-serif;
+    font-size: 18px;
     font-weight: 700;
-    line-height: 60px;
-    letter-spacing: 1.12px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+.logo-part-two {
+    color: #2E2F42;
+    font-family: Raleway, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+ul {list-style: none;}
 
+.list-nav {
+    color:  #2E2F42;
+        font-family: Roboto, sans-serif;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 1.5;
+        letter-spacing: 0.32em;
 }
 
+.nav-add {
+    color:#434455;
+    
+        font-family: Roboto, sans-serif;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5;
+        letter-spacing: 0.32em;
+}
 
+.main-page-name {
+    color: #FFF;
+        font-family: Roboto, sans-serif;
+        font-size: 56px;
+        font-weight: 700;
+        line-height: 1.07;
+        letter-spacing: 0.2em;
+}
 
+.name-one-section {
+    color:  #2E2F42;
+        font-family: Roboto, sans-serif;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.2;
+        letter-spacing:0.2em;
+}
+.list-one-section {
+    color:  #434455;
+        font-family: Roboto, sans-serif;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5;
+        letter-spacing: 0.2em;
+}
 
+.name-two-sextion {
+    color: #2E2F42;
+        font-family: Roboto, sans-serif;
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 1.1;
+        letter-spacing: 0.2em;
+}
+
+.name-page-two {
+    color:#2E2F42;
+       font-family: Roboto, sans-serif;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.2;
+        letter-spacing: 0.2em;
+}

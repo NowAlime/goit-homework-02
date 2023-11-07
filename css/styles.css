@@ -146,7 +146,7 @@ cursor: pointer;
 
 
 .two-section {
-background-color: #2e2f42;
+background: #FFF;
 }
 
 .name-two-section {
@@ -175,7 +175,7 @@ color: #ffffff;
 }
 
 .three-section {
-    background-color: #F4F4FD;
+background: #F4F4FD;
 }
 .name-three-section {
         color: #2E2F42;
@@ -211,6 +211,9 @@ color: #434455;
 
 }
 
+.four-section {
+    background: #FFF;
+}
 .name-four-section {
     color: #2E2F42;
         font-family: Roboto, sans-serif;

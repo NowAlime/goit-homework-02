@@ -83,8 +83,13 @@ ul {list-style: none;}
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+}
 
-
+.list-nav-add-one:hover {
+    color: #404bbf;
+}
+.list-nav-add-one:focus {
+    color: #404bbf; 
 }
 
 .list-nav-add-two{
@@ -92,6 +97,15 @@ ul {list-style: none;}
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+}
+
+.list-nav-add-two:hover  {
+color: #404bbf;
+}
+
+.list-nav-add-two:focus {
+color: #404bbf; 
+
 }
 
 .one-section {

@@ -30,7 +30,10 @@ a {text-decoration: none;}
     color: #2e2f42;
 }
 
-.list-nav-one:hover, .list-nav-one:focus {
+.list-nav-studio {
+    color: #2e2f42;
+}
+.list-nav-studio:hover, .list-nav-studio:focus {
     color: #2e2f42;
     }
 
@@ -92,7 +95,10 @@ ul {list-style: none;}
     color: #434455;
 }
 
-.list-nav-add-one:hover, .list-nav-add-one:focus {
+.list-nav-mail {
+    color: #434455;
+}
+.list-nav-mail:hover, .list-nav-mail:focus {
     color: #404bbf;
 }
 

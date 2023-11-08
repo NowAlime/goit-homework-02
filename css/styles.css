@@ -22,7 +22,7 @@ a {text-decoration: none;}
     letter-spacing: 0.32em;
 }
 
-.list-nav-one {
+.list-nav-one, .list-nav-two, .list-nav-three {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -34,26 +34,9 @@ a {text-decoration: none;}
     color: #2e2f42;
 }
 .list-nav-studio:hover, .list-nav-studio:focus {
-    color: #2e2f42;
+    color: #404bbf;
     }
 
-
-.list-nav-two{
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em; 
-    color: #2e2f42;
-    }
-
-
-.list-nav-three {
-font-weight: 500;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: #2e2f42;
-}
 
 .logo-part-one {
     color: #4D5AE5;
